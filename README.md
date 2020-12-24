@@ -4,7 +4,7 @@
 - Focused on the IoT industry.
 - Interest in architecture design, cloud-native technology stack.
 
-Open-source can serve as a tool for positive social change, but its instrumentalizing nature requires maintainers to double-down on their communities and take moral positions. A license is merely a legal instrument, it is not a substitute for ethics.
+A software engineer who enjoys technology and loves cooking.
 <!--
 **chenwaichung/chenwaichung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
